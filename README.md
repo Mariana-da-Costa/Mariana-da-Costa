@@ -1,4 +1,4 @@
-- 👋 Oi! Eu sou Mariana!
+- 👋 Oi! Eu sou a Mariana!
 - 👀 Sou entusiasta de tecnologia
 - 🌱 Estou estudando Kotlin e automação 
 - 💞️ Trabalho na Embraer
