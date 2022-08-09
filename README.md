@@ -3,6 +3,7 @@
 - 🌱 Estou estudando Kotlin e automação 
 - 💞️ Trabalho na Embraer
 - 📫 Email marianacosta.engc@gmail.com
+- ✨ LinkedIn https://www.linkedin.com/in/mariana-costa-/
 
 <!---
 Mariana-da-Costa/Mariana-da-Costa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
