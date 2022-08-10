@@ -2,7 +2,7 @@
 - 👀 Sou entusiasta de tecnologia
 - 🌱 Estou estudando Kotlin e automação 
 - 💞️ Trabalho na Embraer
-- 📫 Email marianacosta.engc@gmail.com
+- 📫 Email: marianacosta.engc@gmail.com
 - ✨ LinkedIn https://www.linkedin.com/in/mariana-costa-/
 
 <!---
